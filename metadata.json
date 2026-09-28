@@ -1,0 +1,6 @@
+{
+  "name": "Vyapar Pro",
+  "description": "Premium GST billing, inventory, digital khata, POS, and AI business assistant for Indian enterprises",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

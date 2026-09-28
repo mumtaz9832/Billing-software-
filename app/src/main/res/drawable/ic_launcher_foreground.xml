@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Invoice Background Card (centered safe zone 26 to 82) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M34,26 C31.8,26 30,27.8 30,30 L30,78 C30,80.2 31.8,82 34,82 L74,82 C76.2,82 78,80.2 78,78 L78,30 C78,27.8 76.2,26 74,26 Z" />
+
+    <!-- Invoice Header Bar (Teal / Brand) -->
+    <path
+        android:fillColor="#0D9488"
+        android:pathData="M34,26 L74,26 C76.2,26 78,27.8 78,30 L78,38 L30,38 L30,30 C30,27.8 31.8,26 34,26 Z" />
+
+    <!-- Rupee symbol in Gold/Amber on header or center -->
+    <!-- Stylized Rupee symbol in central body -->
+    <path
+        android:fillColor="#0F766E"
+        android:pathData="M44,45 L62,45 M44,49 L60,49 M44,45 L44,57 C48,57 52,56 54,54 C56,52 56,49 56,49 M49,56 L61,69"
+        android:strokeWidth="2.5"
+        android:strokeColor="#0F766E"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+
+    <!-- Horizontal line item accents -->
+    <path
+        android:pathData="M42,32 L66,32"
+        android:strokeWidth="2.5"
+        android:strokeColor="#FFFFFF"
+        android:strokeLineCap="round" />
+
+    <!-- Bottom summary pills -->
+    <path
+        android:pathData="M38,74 L52,74"
+        android:strokeWidth="2"
+        android:strokeColor="#94A3B8"
+        android:strokeLineCap="round" />
+
+    <path
+        android:pathData="M58,74 L70,74"
+        android:strokeWidth="3"
+        android:strokeColor="#10B981"
+        android:strokeLineCap="round" />
+
+    <!-- Badge circle with check/growth -->
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M70,30 A7,7 0 1,0 70,44 A7,7 0 1,0 70,30 Z" />
+    <path
+        android:pathData="M67,37 L69,39 L73,34"
+        android:strokeWidth="1.5"
+        android:strokeColor="#FFFFFF"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+</vector>
